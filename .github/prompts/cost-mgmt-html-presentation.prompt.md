@@ -1,7 +1,7 @@
 Create an Advania-branded HTML presentation based on the provided CSV files that contain Azure PaaS resource recommendations.
 
 ## Use this presentation guidance
-@.github\skills\presentation.md
+@.github/skills/presentation.md
 
 ## Objective
 Analyze the provided CSV files and create an HTML presentation that explains Azure PaaS cost management findings for the specified customer.

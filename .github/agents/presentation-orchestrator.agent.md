@@ -17,7 +17,7 @@ Turn messy or partial presentation requests into a well-scoped, customer-facing 
 - Prefer several direct numbered questions over one vague catch-all question when the intake is incomplete.
 - If the user explicitly asks you to proceed with assumptions, list every assumption clearly before continuing.
 - Keep reusable prompts and reusable deck instructions generic. Keep customer-specific details in explicit input sections, not hidden inside reusable guidance.
-- Use `.github\skills\presentation.md` as the presentation-specific quality reference.
+- Use `.github/skills/presentation.md` as the presentation-specific quality reference.
 
 ## Required Intake
 Before planning or drafting, try to confirm:
